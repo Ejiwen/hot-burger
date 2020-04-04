@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hot-burger/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hot-burger/static/js/main.eb1664ac.chunk.js",
+    "main.js.map": "/hot-burger/static/js/main.eb1664ac.chunk.js.map",
+    "runtime-main.js": "/hot-burger/static/js/runtime-main.207dc43d.js",
+    "runtime-main.js.map": "/hot-burger/static/js/runtime-main.207dc43d.js.map",
+    "static/js/2.a51759fc.chunk.js": "/hot-burger/static/js/2.a51759fc.chunk.js",
+    "static/js/2.a51759fc.chunk.js.map": "/hot-burger/static/js/2.a51759fc.chunk.js.map",
+    "index.html": "/hot-burger/index.html",
+    "precache-manifest.3a044ac612d5219bb1716abfa7f5614e.js": "/hot-burger/precache-manifest.3a044ac612d5219bb1716abfa7f5614e.js",
+    "service-worker.js": "/hot-burger/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hot-burger/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a51759fc.chunk.js.LICENSE.txt": "/hot-burger/static/js/2.a51759fc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hot-burger/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.207dc43d.js",
+    "static/js/2.a51759fc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.eb1664ac.chunk.js"
+  ]
+}
